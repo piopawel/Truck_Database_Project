@@ -1,0 +1,11 @@
+G:\Erasmus\DAIS\Projekt\Paw0025 ORM\Paw0025 ORM\bin\Debug\Paw0025 ORM.exe.config
+G:\Erasmus\DAIS\Projekt\Paw0025 ORM\Paw0025 ORM\bin\Debug\Paw0025 ORM.exe
+G:\Erasmus\DAIS\Projekt\Paw0025 ORM\Paw0025 ORM\bin\Debug\Paw0025 ORM.pdb
+G:\Erasmus\DAIS\Projekt\Paw0025 ORM\Paw0025 ORM\obj\Debug\Paw0025 ORM.csprojResolveAssemblyReference.cache
+G:\Erasmus\DAIS\Projekt\Paw0025 ORM\Paw0025 ORM\obj\Debug\Paw0025 ORM.exe
+G:\Erasmus\DAIS\Projekt\Paw0025 ORM\Paw0025 ORM\obj\Debug\Paw0025 ORM.pdb
+G:\Erasmus\DAIS\Projekt\Paw0025 ORM\Paw0025 ORM\bin\Debug\Oracle.DataAccess.dll
+G:\Erasmus\DAIS\Projekt\Paw0025 ORM\Paw0025 ORM\bin\Debug\Oracle.ManagedDataAccess.dll
+G:\Erasmus\DAIS\Projekt\Paw0025 ORM\Paw0025 ORM\obj\Debug\Paw0025_ORM.MainMenu.resources
+G:\Erasmus\DAIS\Projekt\Paw0025 ORM\Paw0025 ORM\obj\Debug\Paw0025_ORM.NewOrder.resources
+G:\Erasmus\DAIS\Projekt\Paw0025 ORM\Paw0025 ORM\obj\Debug\Paw0025 ORM.csproj.GenerateResource.Cache

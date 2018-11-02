@@ -1,0 +1,21 @@
+CREATE UNIQUE NONCLUSTERED INDEX
+Order__IDX ON Orders
+(
+  Truck_plate
+)
+ON "default"
+GO
+CREATE UNIQUE NONCLUSTERED INDEX
+Order__IDXv1 ON Orders
+(
+  client_id
+)
+ON "default"
+GO
+CREATE UNIQUE NONCLUSTERED INDEX
+Order__IDXv2 ON Orders
+(
+  route_id
+)
+ON "default"
+GO
